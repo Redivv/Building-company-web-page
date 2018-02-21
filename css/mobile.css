@@ -1,0 +1,143 @@
+@media screen and (max-width: 1280px)
+{
+	.tabs_box
+	{
+		left:12%;
+	}
+	.tabs_content img
+	{
+	width:120px;
+	height:100px;
+	}
+	.tabs_nav
+	{
+		font-size:10px;
+	}
+	.tabs_content h3
+	{
+		font-size:24px;
+	}
+}
+@media screen and (max-width: 1200px)
+{
+	.header_box
+	{
+		font-size:15px;
+	}
+	.button
+	{
+		font-size:15px;
+	}
+	.footer_contact
+	{
+		padding-left:0px;
+		font-size:13px;
+	}
+	.footer_about img
+	{
+		width:81px;
+	}
+	.contractors h3
+	{
+		font-size:15px;
+	}
+}
+@media screen and (max-width: 995px)
+{
+	.reference img
+	{
+		width:200px;	
+	}
+	.contractors_logo
+	{
+		width:200px;
+		height:80px;
+	}
+	.contractors h3
+	{
+		font-size:11px;
+	}
+	.footer_about img
+	{
+		width:57px;
+	}
+	.footer_contact
+	{
+		padding-left:0px;
+		font-size:10px;
+	}
+	.tabs_nav
+	{
+		font-weight:bold;
+		font-size:6px;
+	}
+	.tabs_content h3
+	{
+		font-size:29px;
+	}
+	.tabs_content img
+	{
+	width:100px;
+	height:80px;
+	}
+}
+@media screen and (max-width: 810px)
+{
+	.tabs_content h3
+	{
+		font-size:20px;
+	}
+	.tabs_content img
+	{
+	width:80px;
+	height:60px;
+	}
+	.tabs_box
+	{
+		left:9%;
+	}
+	h2
+	{
+		font-size:17px;
+	}
+}
+@media screen and (max-width: 660px)
+{
+	.tabs_content h3
+	{
+		font-size:15px;
+	}
+	.header_box
+	{
+		font-size:9px;
+	}
+	.tabs_content img
+	{
+	width:70px;
+	height:50px;
+	}
+
+}
+@media screen and (max-width: 570px)
+{
+	.button
+	{
+		font-size:13px;
+	}
+	.tabs_content img
+	{
+	width:50px;
+	height:40px;
+	}
+}
+@media screen and (max-width: 470px)
+{
+	.button
+	{
+		font-size:6px;
+	}
+	.header_box
+	{
+		font-size:7px;
+	}
+}
